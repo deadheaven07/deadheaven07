@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 
 ---
 
-
 ## 🛠️ Tech Stack  
 
 ### 🚀 Languages  
@@ -52,42 +51,38 @@ Here are some ideas to get you started:
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) 
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)  
  
-
 ---
 
 ## 📊 GitHub Stats  
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=deadheaven07&show_icons=true&theme=tokyonight" alt="Harsh's GitHub stats" width="400"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deadheaven07&layout=compact&theme=tokyonight" alt="Top Langs" width="400"/>
-    </td>
-  </tr>
-</table>
-
+<div align="center">
+  <a href="https://github.com/deadheaven07" title="GitHub Profile">
+    <img src="https://github-readme-stats.vercel.app/api?username=deadheaven07&show_icons=true&theme=tokyonight" alt="Harsh's GitHub stats" width="400" style="transform: scale(1); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
+  </a>
+  <a href="https://github.com/deadheaven07" title="Languages Breakdown">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deadheaven07&layout=compact&theme=tokyonight" alt="Top Langs" width="400" style="transform: scale(1); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
+  </a>
+</div>
 
 ---
+
 ## 🏆 LeetCode Stats  
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-deadheaven007-orange?logo=leetcode&logoColor=white)](https://leetcode.com/u/deadheaven007/)
 
-
-### 📚 Skills Breakdown  
-![LeetCode Topics](https://leetcard.jacoblin.cool/deadheaven007?theme=dark&ext=topic)
-
-
+### 📚 Questions Breakdown  
+<a href="https://leetcode.com/u/deadheaven007/" title="View LeetCode Profile">
+  <img src="https://leetcard.jacoblin.cool/deadheaven007?theme=dark&ext=topic" alt="LeetCode Stats" width="600" style="transform: scale(1); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
+</a>
 
 ---
-## 🏆 Competitive Programming
 
+## 🏆 Competitive Programming  
 
-
-### Codeforces
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=deadheaven_cp)](https://codeforces.com/profile/deadheaven_cp)
-
+### Codeforces  
+<a href="https://codeforces.com/profile/deadheaven_cp" title="View Codeforces Profile">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=deadheaven_cp" alt="Codeforces Stats" width="400" style="transform: scale(1); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
+</a>
 
 <!--
 ## 🔗 Connect with Me
@@ -97,4 +92,3 @@ Here are some ideas to get you started:
 -->
 ---
 ⭐️ From [deadheaven07](https://github.com/deadheaven07)
-
