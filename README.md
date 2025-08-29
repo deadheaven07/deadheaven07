@@ -81,6 +81,13 @@ Here are some ideas to get you started:
 
 
 ---
+## 🏆 Competitive Programming
+
+
+
+### Codeforces
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=deadheaven_cp)](https://codeforces.com/profile/deadheaven_cp)
+
 
 <!--
 ## 🔗 Connect with Me
