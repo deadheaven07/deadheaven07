@@ -43,7 +43,7 @@ Here are some ideas to get you started:
   <img src="https://skillicons.dev/icons?i=js" title="JavaScript" width="50"/>
   <img src="https://skillicons.dev/icons?i=python" title="Python" width="50"/>
   <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" width="50"/>
-  <img src="https://skillicons.dev/icons?i=c" title="C" width="50"/>
+ 
 </p>
 
 ### 🏗️ Frameworks  
