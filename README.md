@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ## 🚀 About Me  
 
-- 💻 Passionate **Software Engineer** 🧑‍💻 with a strong interest in **Backend Development ⚙️**, **System Design 🏗️**, and **DSA 📚**  
+- 💻 Passionate **Software Engineer** 🧑‍💻 with a strong interest in **Software Development ⚙️**, **System Design 🏗️**, and **DSA 📚**  
 - 🌱 Continuously improving my skills in **DSA 📚** & **Scalable System Architecture 🏛️**  
 - ⚡ Loves **Problem-Solving 🧩**, **Open-Source Contribution 🌍**, & exploring **New Technologies 🔬**
 
