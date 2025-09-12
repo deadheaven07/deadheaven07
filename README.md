@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## 👨‍💻 Introduction  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F707&width=600&lines=Hi%2C+I'm+Harsh+Raghuwanshi+👋;Backend+Developer+%7C+Java%2C%20Javascript;Passionate+about+DSA+and+System%20Design)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F707&width=600&lines=Hi%2C+I'm+Harsh+Raghuwanshi+👋;Software+Developer+%7C+Java%2C%20Javascript;Passionate+about+DSA+and+System%20Design)](https://git.io/typing-svg)
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=deadheaven07&color=blue&style=flat)
