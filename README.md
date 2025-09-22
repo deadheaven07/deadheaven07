@@ -116,7 +116,7 @@ Here are some ideas to get you started:
 </a>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Next%20Title-Expert-blue?style=for-the-badge" alt="Next Title" />
+  <img src="https://img.shields.io/badge/Next%20Title-Candidate Master-blue?style=for-the-badge" alt="Next Title" />
 </p>
 
 ---
