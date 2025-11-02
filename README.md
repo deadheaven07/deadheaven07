@@ -25,11 +25,19 @@
 
 ---
 
-## 🛠️ Tech Stack  
+🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,python,ts,spring,react,express,django,nodejs,mysql,postgres,mongodb,aws,docker,git,github,linux,html,css,tailwind" />
-</p>
+Languages : <p> <img src="https://skillicons.dev/icons?i=java,js,ts,python" /> </p>
+Backend & Frameworks :
+<p> <img src="https://skillicons.dev/icons?i=spring,nodejs,express,django" /> </p>
+Frontend & UI :
+<p> <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" /> </p>
+Databases :
+<p> <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" /> </p>
+Cloud & DevOps :
+<p> <img src="https://skillicons.dev/icons?i=aws,docker" /> </p>
+Tools & Platforms :
+<p> <img src="https://skillicons.dev/icons?i=git,github,linux" /> </p>
 
 ---
 
