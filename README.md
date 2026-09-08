@@ -20,10 +20,7 @@
 
 <br><br>
 
-<p>
-  🔭 <b>Currently Building:</b> High-concurrency financial analytics pipelines &amp; 3D spatial routing engines<br>
-  🌱 <b>Currently Exploring:</b> Production Agentic AI Workflows, Distributed Systems &amp; Low-Latency Architecture
-</p>
+
 
 </div>
 
