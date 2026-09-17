@@ -221,3 +221,15 @@
 **[deadheaven07](https://github.com/deadheaven07)** · *Turning coffee into clean code & crazy fun ideas ☕✨*
 
 </div>
+
+<br>
+
+---
+
+## 🤝 Contributing
+
+Ideas, improvements, and thoughtful feedback are always welcome.
+
+- 🐛 **Report an issue:** [Open an issue](https://github.com/deadheaven07/deadheaven07/issues/new) with clear context, expected behavior, actual behavior, and any relevant screenshots or logs.
+- 💡 **Propose a change:** Describe the problem and your suggested approach so the change can be discussed before larger updates.
+- 🔧 **Open a pull request:** Keep changes focused, explain what changed and why, and include relevant validation details. Please use a clear title and link any related issue.
